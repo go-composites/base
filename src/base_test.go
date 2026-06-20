@@ -1,7 +1,7 @@
 package Base_test
 
 import (
-	Base "github.com/golang-cop/base/src"
+	Base "github.com/go-composites/base/src"
 
 	"github.com/onsi/ginkgo/v2"
 	"github.com/onsi/gomega"

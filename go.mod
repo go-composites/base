@@ -1,4 +1,4 @@
-module github.com/golang-cop/base
+module github.com/go-composites/base
 
 go 1.21.6
 

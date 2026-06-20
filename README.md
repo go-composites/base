@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/golang-cop/brand/main/social/golang-oop.png" alt="golang-cop/base" width="720"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/go-composites/brand/main/social/golang-oop.png" alt="go-composites/base" width="720"></p>
 
 # class
 
@@ -8,8 +8,8 @@
 package Vehicle
 
 import (
-    Class "https://github.com/golang-cop/base/src"
-    Boolean "https://github.com/golang-cop/boolean/src"
+    Class "https://github.com/go-composites/base/src"
+    Boolean "https://github.com/go-composites/boolean/src"
 )
 type Interface interface {
     Class.Interface
