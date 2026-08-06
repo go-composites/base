@@ -1,6 +1,6 @@
 module github.com/go-composites/base
 
-go 1.21.6
+go 1.26.4
 
 require (
 	github.com/onsi/ginkgo/v2 v2.19.0
